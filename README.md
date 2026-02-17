@@ -22,5 +22,5 @@ A simple and beginner-friendly Todo List application built with vanilla JavaScri
 - Rendering dynamic content with JavaScript
 
 ##  Screenshot
-![Image](Screenshot.PNG)
+![Image](screenshot.PNG)
 
